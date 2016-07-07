@@ -3,10 +3,9 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-22243b3" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a00ca6cf2dd713ddbbc5de0087b58269b5b1205c</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\27d5c87c-6f2b-411f-abde-baf254322f6f.md</xliffext:olfilepath>
-      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
-      </xliffext:oltranslationpriority>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bcc6184f8c391ef288211681519ecf9b0eddae99</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\77ba571a-2fe3-472a-a9d0-9c09e10a7bc6.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
     </header>
     <body>
@@ -16,8 +15,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>1293f8d7-eee1-46a4-af97-faff56e873e0 thanks!</source>
-          <target state="new">1293f8d7-eee1-46a4-af97-faff56e873e0 thanks!</target>
+          <source>302d32de-9baa-4f12-bd40-a7dbbc8dfe39 thanks!</source>
+          <target state="new">302d32de-9baa-4f12-bd40-a7dbbc8dfe39 thanks!</target>
         </trans-unit>
       </group>
     </body>

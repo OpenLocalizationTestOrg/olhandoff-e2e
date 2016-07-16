@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-22243b3" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b14c883360092c20c5cabca8b0be79d428770b55</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\0ba32025-8851-4188-b57f-de857f9b8e60.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1b72832a1001bde22d3b4dd21399bde89d0051d8</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>OpenLocalization Workflow Test MarkDown</source>
+          <target state="new">OpenLocalization Workflow Test MarkDown</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>image1<ph id="ph1">](.\2294c759-a51a-4d7b-b62c-390d7576e0be.PNG)</ph>   <ph id="ph2">![</ph>image2<ph id="ph3">](.\3d45e59b-5286-4392-945d-4eee9d3055c8.png)</ph> thanks!</source>
+          <target state="new">image1<ph id="ph1">](.\2294c759-a51a-4d7b-b62c-390d7576e0be.PNG)</ph>   <ph id="ph2">![</ph>image2<ph id="ph3">](.\3d45e59b-5286-4392-945d-4eee9d3055c8.png)</ph> thanks!</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

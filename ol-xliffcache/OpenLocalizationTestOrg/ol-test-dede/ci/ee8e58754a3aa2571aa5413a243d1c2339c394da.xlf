@@ -3,12 +3,11 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-22243b3" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fdbf3dc69ae080f7558b7c8dbe1fa18e9fa807e1</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\6aebeeac-8d6a-47f9-89de-fb2b7fc150cc.md</xliffext:olfilepath>
-      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
-      </xliffext:oltranslationpriority>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ee8e58754a3aa2571aa5413a243d1c2339c394da</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\a0367911-4e06-43a3-a8e2-1a4daaa9a217.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">df560449af0c3b429d560f149501332849f80546</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">67ef76bb9b900e2b93b7b2e735fc73159bef6cba</xliffext:olskeletonhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -17,8 +16,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>94ea6d56-41d5-4e3e-97e5-8c4fa83f6969 thanks!</source>
-          <target state="new">94ea6d56-41d5-4e3e-97e5-8c4fa83f6969 thanks!</target>
+          <source>dabbcd3b-c1e7-4bab-aa87-cb026d0dccb6 thanks!</source>
+          <target state="new">dabbcd3b-c1e7-4bab-aa87-cb026d0dccb6 thanks!</target>
         </trans-unit>
       </group>
     </body>

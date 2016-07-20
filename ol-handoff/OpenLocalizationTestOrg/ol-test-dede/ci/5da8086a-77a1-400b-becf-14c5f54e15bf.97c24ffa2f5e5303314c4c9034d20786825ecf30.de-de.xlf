@@ -3,11 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-22243b3" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">043aa8b65feca47f8f3dd9cb1feedfe4ced981f9</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\972d2428-00f9-4d61-b01c-6f990bfb51e1.md</xliffext:olfilepath>
-      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7e7ca28d0415d683c2b51e2bfe7be26b8e379e6e</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\5da8086a-77a1-400b-becf-14c5f54e15bf.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d2924d514246561ba5941e30d8c970ffa6357d52</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9bbccb3e0bd10217ae01bff9770bce656677dc22</xliffext:olskeletonhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,8 +17,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>eb2e35e7-84ec-403f-b8fe-0b0138b23e0f thanks!</source>
-          <target state="new">eb2e35e7-84ec-403f-b8fe-0b0138b23e0f thanks!</target>
+          <source>c2706bad-2594-4acc-ac63-ccc74afca664 thanks!</source>
+          <target state="new">c2706bad-2594-4acc-ac63-ccc74afca664 thanks!</target>
         </trans-unit>
       </group>
     </body>

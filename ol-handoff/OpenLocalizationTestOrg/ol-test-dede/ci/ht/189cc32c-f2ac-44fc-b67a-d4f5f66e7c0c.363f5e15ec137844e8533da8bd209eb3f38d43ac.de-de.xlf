@@ -3,12 +3,11 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f61a62f" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">59ce54d309b34539dc8b52bd3eff0a9439b18c71</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\cd9597c5-b656-4534-af71-7ec4a6a8ac06.md</xliffext:olfilepath>
-      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
-      </xliffext:oltranslationpriority>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b4304179a6d97f36be77d18f8a2a5ee1afeffea2</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\189cc32c-f2ac-44fc-b67a-d4f5f66e7c0c.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f2455bd307399b08cd5686cf0acd0a87e92722e1</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">35bf357b3fef03d43b159566d112b664fd137609</xliffext:olskeletonhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -17,8 +16,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>de36b6e5-421d-4162-8821-8973b509d81f thanks!</source>
-          <target state="new">de36b6e5-421d-4162-8821-8973b509d81f thanks!</target>
+          <source>f0fb3695-be1c-44fd-ad83-47f4c2eb4977 thanks!</source>
+          <target state="new">f0fb3695-be1c-44fd-ad83-47f4c2eb4977 thanks!</target>
         </trans-unit>
       </group>
     </body>

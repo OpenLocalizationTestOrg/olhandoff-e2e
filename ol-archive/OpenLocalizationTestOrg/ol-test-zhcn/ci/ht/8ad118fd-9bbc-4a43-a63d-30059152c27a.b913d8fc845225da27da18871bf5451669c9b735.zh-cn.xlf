@@ -3,11 +3,11 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f61a62f" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fbcca01a84c9541d17ccf11b0f2e1550a46b70dc</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">48af243acf16ead605ebe501d8df6fa3947f2e2b</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\8ad118fd-9bbc-4a43-a63d-30059152c27a.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6f41d320e97cedec6db79701f02bb46be19c19dc</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e8605cef04044097c51bf8509e562b351201738f</xliffext:olskeletonhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,8 +16,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>7c418b06-a1de-418a-a9c1-54cc47badff3 thanks!</source>
-          <target state="new">7c418b06-a1de-418a-a9c1-54cc47badff3 thanks!</target>
+          <source>142510d9-d485-45e9-add4-756fb7c28dab thanks!</source>
+          <target state="new">142510d9-d485-45e9-add4-756fb7c28dab thanks!</target>
         </trans-unit>
       </group>
     </body>
